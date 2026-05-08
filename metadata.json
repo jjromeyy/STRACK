@@ -1,0 +1,12 @@
+{
+  "name": "STRACK",
+  "description": "Zen-inspired student productivity lab featuring smart scheduling, tactical tasks, and collaborative workspaces.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI-powered OCR",
+    "Real-time collaboration",
+    "Smart scheduling"
+  ]
+}
